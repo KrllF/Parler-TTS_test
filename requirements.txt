@@ -1,0 +1,7 @@
+torch
+git+https://github.com/huggingface/parler-tts.git
+transformers
+soundfile
+git+https://github.com/openai/whisper.git
+jiwer
+ffmpeg
